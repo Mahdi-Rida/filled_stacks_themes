@@ -1,4 +1,6 @@
+import 'package:flutter_multiple_theme/app/locator.dart';
 import 'package:stacked/stacked.dart';
+import 'package:stacked_themes/stacked_themes.dart';
 
 class ThemeModel {
   final int index;
